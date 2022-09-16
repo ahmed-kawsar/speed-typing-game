@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); */
 
 html,
 body {
@@ -51,7 +51,7 @@ textarea:disabled {
 }
 
 .set-time {
-  width: 30px;
+  width: 40px;
   padding: 0.5em;
   background-color: #00b800;
   color: #000;
