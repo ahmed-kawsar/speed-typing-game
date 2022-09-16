@@ -33,6 +33,7 @@ function App() {
           value={timeCount}
           onChange={(e) => setTimeCount(e.target.value)}
         />
+        (sec)
       </label>
 
       <h4>Time remaining: {timeRemaining}</h4>
